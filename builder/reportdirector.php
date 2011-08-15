@@ -23,5 +23,5 @@ class ReportDirector
                                     array('type'=>'Boissons', 'amount'=>50)
                                    )
                     );
-    }
+    }       
 }
